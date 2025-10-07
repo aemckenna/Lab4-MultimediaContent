@@ -75,12 +75,32 @@ p {
   padding: 0 1rem;
 }
 
-#home-image {
-  margin: 2rem 0;
+#scenery-image {
+  margin: 1rem 0;
   border-radius: 12px;
   overflow: hidden;
 }
-#home-image img {
+#scenery-image img {
   width: 100%;
+  height: auto;
+}
+
+#scenery-video {
+  margin: 1rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+}
+#scenery-video video {
+  width: 100%;
+  height: auto;
+}
+
+#gardenofthegods-image {
+  margin: 1rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+}
+#gardenofthegods-image img {
+  width: 50%;
   height: auto;
 }
