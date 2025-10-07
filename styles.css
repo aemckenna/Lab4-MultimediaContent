@@ -81,7 +81,7 @@ p {
   overflow: hidden;
 }
 #scenery-image img {
-  width: 100%;
+  width: auto;
   height: auto;
 }
 
